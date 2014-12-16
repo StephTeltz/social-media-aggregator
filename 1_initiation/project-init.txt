@@ -1,0 +1,28 @@
+
+-----------------------
+SOCIAL MEDIA AGGREGATOR
+-----------------------
+
+Init: 		December 16, 2014
+
+Problem: 	How can I keep track of all my online social activities?
+		How can I keep track of my professional network?
+		How can I keep track of my personal network?
+
+Solution:	Need a social media aggregator
+
+5-min survey:	Attempts have been made but none have been very successful.
+
+Musings:	Needs to be secure
+		Needs to be interactive (ie., contribute to social network from directly 		within aggregator)	
+		A visual network map would be nice
+		Reminders to contact, birthday reminders, etc.
+
+Next Steps:	Need to understand the space, what has been attempted, why hasn't been 	
+		successful
+
+Goal: 		A social media aggregator - as popular are Facebook
+		Privacy built-in
+		Functions as powerfully as each individual outlet
+		Visualize your aggregated network & sort
+		Reminders 
